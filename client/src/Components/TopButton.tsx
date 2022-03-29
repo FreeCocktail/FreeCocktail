@@ -15,7 +15,7 @@ const TopButton = styled.button`
     #ffb20e,
     #ffe800
   );
-  font-size: 15px;
+  font-size: 20px;
   font-family: Gmarket Sans TTF;
   color: #ffffff;
   -webkit-text-stroke: 0.4px black;
